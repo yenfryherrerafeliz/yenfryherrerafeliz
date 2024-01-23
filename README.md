@@ -2,8 +2,6 @@ Hi, my name is Yenfry Herrera and I am a self taught software developer. I have 
 
 I love to learn, and I think we need to keep updating our knowledge everyday.
 
-In case you need anything from me, you can reach me by using my email address: yenfri01@gmail.com
-
 <!---
 yenfryherrerafeliz/yenfryherrerafeliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
